@@ -1,7 +1,6 @@
 - 👋 Hi, I’m  Mateusz @wazash Witek
 - 👀 I’m interested in games (RPG mostly), programming and anything that will make me better
 - 🌱 I’m currently learning C# and Unity engine
-- 💞️ I'm looking for someone who will give me the opportunity to pursue my interests
 - 📫 How to reach me: mateusz.witek@protonmail.com
 
 <!---
